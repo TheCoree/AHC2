@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import argparse
 
 def coding(text, mixing=9, key=9, show_values=False):

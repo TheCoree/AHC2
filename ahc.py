@@ -32,7 +32,7 @@ def search_mix_and_key(text):
         decoder_main(text, 9, 9)
 
 def main():
-    parser = argparse.ArgumentParser(description="AHcoder v1.5 CLI tool")
+    parser = argparse.ArgumentParser(description="AHcoder v2.0 CLI tool")
     parser.add_argument("text", nargs="?", help="Text to encode or decode")
     parser.add_argument("--decrypt", "-d", action="store_true", help="Decrypt the provided text")
     parser.add_argument("--decrypt-values", "-dv", action="store_true", help="Decrypt text with embedded mixing and key values")

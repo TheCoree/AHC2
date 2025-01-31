@@ -11,9 +11,9 @@ sudo apt update && sudo apt install python3
 
 ### 2. Скачайте и установите AHC
 ```bash
-git clone https://github.com/TheCoree/ahc2.git 
-cd AHCturbo
-chmod +x AHCturbo.py
+git clone https://github.com/TheCoree/AHC2.git 
+cd AHC2
+chmod +x ahc.py
 ```
 
 ### 3. Создайте символическую ссылку для удобного вызова
